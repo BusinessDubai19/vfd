@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://businessdubai19.github.io/vfd/sitemap.xml
